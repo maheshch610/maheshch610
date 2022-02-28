@@ -1,5 +1,4 @@
-package emailv
-erification;
+package emailverification;
 import java.util.*;
 import java.util.regex.*; public class EmailVerification {
 public static void main(String[] args) {
